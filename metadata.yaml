@@ -1,0 +1,31 @@
+_repo: Stories-and-Sketches-by-our-best-authors_53178
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2016-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: The skeleton at the banquet / Seeley Regester -- Let those laugh
+  who win / Samuel W. Tuttle -- The proper use of grandfathers / Fitz Hugh Ludlow
+  -- At eve / Gertrude Brodé -- Broken idols / Richmond Wolcott -- Dr. Huger's intentions
+  / Louise Chandler Moulton -- The man whose life was saved / ***** -- The romance
+  of a western trip / J. L. Lord -- The two ghosts of New London Turnpike / Mrs. Galpin
+  -- Down by the sea / Hattie Tyng Griswold -- Why Mrs. Radnor Fainted / ***** --
+  Under a cloud / William Wirt Sikes -- Coming from the front / Richmond Wolcott --
+  A night in the sewers / Chas. Dawson Shanly.
+title: Stories and Sketches by our best authors
+url: http://www.gutenberg.org/ebooks/53178
